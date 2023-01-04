@@ -1,6 +1,6 @@
 ## Olá , eu sou Diego Lima, seja bem-vindo ao meu repositório 👋🤝
 #### Sou desenvolvedor Full Stack formado pelo Bootcamp da Labenu. Após fazer meu primeiro site consumindo API descobri que quero seguir em frente nessa carreira.
-#### Algumas das tecnologias que aprendi foram REACT.JS, JAVASCRIPT, TYPESCRIPT, HTML, CSS, NODE.JS, EXPRESS.JS, MySQL e JEST. Tenho background na area comercial onde também desenvolvi algumas das minhas soft skills importantes para trabalhar em qualquer ambiente. 
+#### Algumas das tecnologias que aprendi foram REACT.JS, JAVASCRIPT, TYPESCRIPT, HTML, CSS, NODE.JS, EXPRESS.JS, MySQL e JEST.
 
 #
 <div align="center">
