@@ -1,8 +1,8 @@
 ## Olá , eu sou Diego Lima, seja bem-vindo ao meu repositório 👋🤝
 #### Sou desenvolvedor Full Stack formado pelo Bootcamp da Labenu. Após fazer meu primeiro site consumindo API descobri que quero seguir em frente nessa carreira.
 #### Algumas das tecnologias que aprendi foram REACT.JS, JAVASCRIPT, TYPESCRIPT, HTML, CSS, NODE.JS, EXPRESS.JS, MySQL e JEST.
-### Atualmente estou utilizando as tecnologias nos meus projetos: MONGO, NESTJS e DOCKER
-### Aprendendo rotinas de DevOps
+#### Atualmente estou utilizando as tecnologias nos meus projetos: MONGO, NESTJS e DOCKER
+#### Aprendendo rotinas de DevOps
 
 #
 <div align="center">
