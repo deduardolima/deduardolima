@@ -17,7 +17,6 @@ I am a software developer since 2022, constantly learning how to create impactfu
 <div>
   <a href="mailto:dgo.eduardolima@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/diego-eduardo-lima-a7098341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541991226251" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp"></a>
 </div>
 
 ## 
