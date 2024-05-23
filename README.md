@@ -1,9 +1,9 @@
 ### Hi there, I'm Diego Eduardo 👋
 
 ![svg](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-![svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+![svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)
 
