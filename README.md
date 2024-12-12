@@ -9,7 +9,7 @@
 
 I am a software developer since 2022, constantly learning how to create impactful software solutions.
 
-- 🔭 I’m currently working on **Condor Super Center**
+- 🔭 I’m currently working on **Teddy Open Finance**
 - 🌱 I’m currently learning **Golang**
 - 💬 Ask me about **how I can solve a problem**
 - 📫 How to reach me:
